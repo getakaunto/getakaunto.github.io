@@ -1,0 +1,16 @@
+- name: Register Legal Entities
+  page: register.html
+  image: fa-gem
+  description: Register any kind of entity
+- name: Accounting
+  page: accounting.html
+  image: fa-laptop-code
+  description: Accounting and book keeping
+- name: Tax Filing
+  page: tax.html
+  image: fa-globe
+  description: Income tax return filing, Tax representation
+- name: GST
+  page: gst.html
+  image: fa-heart
+  description: registraion, return, compliances, e-way bill
