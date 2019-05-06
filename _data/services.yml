@@ -1,16 +1,28 @@
 - name: Register Legal Entities
   page: register.html
   image: fa-gem
-  description: Register any kind of entity
+  description:
+  - Proprietorship
+  - Partnership Firm
+  - Limited Liability Partnership
+  - One Person Company
+  - Private Limited Company
 - name: Accounting
   page: accounting.html
   image: fa-laptop-code
-  description: Accounting and book keeping
+  description: 
+  - Accounting and book keeping
 - name: Tax Filing
   page: tax.html
   image: fa-globe
-  description: Income tax return filing, Tax representation
+  description: 
+  - Income tax return filing
+  - Tax representation
 - name: GST
   page: gst.html
   image: fa-heart
-  description: registraion, return, compliances, e-way bill
+  description: 
+  - Registration 
+  - Return
+  - Compliances
+  - e-way bill
